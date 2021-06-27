@@ -1,5 +1,4 @@
 # Hypeouseaus
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&color=168DE2&logoColor=white&logo=twitter&link=https://twitter.com/actuspopuli)](https://twitter.com/actuspopuli)
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://amicus-veritatis.github.io/)](https://amicus-veritatis.github.io/)
 
 ## Contents
